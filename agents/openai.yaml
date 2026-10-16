@@ -1,0 +1,4 @@
+interface:
+  display_name: "红楼人物海报提示词"
+  short_description: "依据《红楼梦》原文，提炼人物性格与命运意象，生成可直接使用的工笔海报生图提示词"
+  default_prompt: "请使用 $honglou-portrait-prompt，为我创作一张《红楼梦》人物海报的生图提示词。"
